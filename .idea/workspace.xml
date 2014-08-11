@@ -1,0 +1,1215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidConfiguredLogFilters">
+    <filters>
+      <filter>
+        <option name="name" value="app: info.androidhive.jsonparsing" />
+        <option name="packageNamePattern" value="info.androidhive.jsonparsing" />
+      </filter>
+    </filters>
+  </component>
+  <component name="AndroidLayoutPreviewToolWindow">
+    <option name="state">
+      <GlobalState />
+    </option>
+  </component>
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="app: info.androidhive.jsonparsing" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="87d94c97-8c8b-4cdb-bd7c-404b8be0a915" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RVANA/bin/AndroidJSONParsing.apk" afterPath="$PROJECT_DIR$/RVANA/bin/AndroidJSONParsing.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RVANA/bin/classes/info/androidhive/jsonparsing/BuildConfig.class" afterPath="$PROJECT_DIR$/RVANA/bin/classes/info/androidhive/jsonparsing/BuildConfig.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/CHANGELOG.md" afterPath="$PROJECT_DIR$/NineOldAndroids-master/CHANGELOG.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RVANA/bin/classes/info/androidhive/jsonparsing/MainActivity$1.class" afterPath="$PROJECT_DIR$/RVANA/bin/classes/info/androidhive/jsonparsing/MainActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RVANA/bin/classes/info/androidhive/jsonparsing/MainActivity$GetContacts.class" afterPath="$PROJECT_DIR$/RVANA/bin/classes/info/androidhive/jsonparsing/MainActivity$GetContacts.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RVANA/bin/classes/info/androidhive/jsonparsing/MainActivity.class" afterPath="$PROJECT_DIR$/RVANA/bin/classes/info/androidhive/jsonparsing/MainActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RVANA/bin/classes/info/androidhive/jsonparsing/R$attr.class" afterPath="$PROJECT_DIR$/RVANA/bin/classes/info/androidhive/jsonparsing/R$attr.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RVANA/bin/classes/info/androidhive/jsonparsing/R$drawable.class" afterPath="$PROJECT_DIR$/RVANA/bin/classes/info/androidhive/jsonparsing/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RVANA/bin/classes/info/androidhive/jsonparsing/R$id.class" afterPath="$PROJECT_DIR$/RVANA/bin/classes/info/androidhive/jsonparsing/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RVANA/bin/classes/info/androidhive/jsonparsing/R$layout.class" afterPath="$PROJECT_DIR$/RVANA/bin/classes/info/androidhive/jsonparsing/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RVANA/bin/classes/info/androidhive/jsonparsing/R$string.class" afterPath="$PROJECT_DIR$/RVANA/bin/classes/info/androidhive/jsonparsing/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RVANA/bin/classes/info/androidhive/jsonparsing/R.class" afterPath="$PROJECT_DIR$/RVANA/bin/classes/info/androidhive/jsonparsing/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/README.md" afterPath="$PROJECT_DIR$/NineOldAndroids-master/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-swipelistview-master/README.md" afterPath="$PROJECT_DIR$/android-swipelistview-master/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RVANA/bin/classes/info/androidhive/jsonparsing/ServiceHandler.class" afterPath="$PROJECT_DIR$/RVANA/bin/classes/info/androidhive/jsonparsing/ServiceHandler.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RVANA/bin/classes/info/androidhive/jsonparsing/SingleContactActivity.class" afterPath="$PROJECT_DIR$/RVANA/bin/classes/info/androidhive/jsonparsing/SingleContactActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RVANA/libs/android-support-v4.jar" afterPath="$PROJECT_DIR$/RVANA/libs/android-support-v4.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RVANA/bin/dexedLibs/annotations-0b126310b5f4cae5912cf702d333d362.jar" afterPath="$PROJECT_DIR$/RVANA/bin/dexedLibs/annotations-0b126310b5f4cae5912cf702d333d362.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RVANA/bin/classes.dex" afterPath="$PROJECT_DIR$/RVANA/bin/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/sample/res/drawable/droid.png" afterPath="$PROJECT_DIR$/NineOldAndroids-master/sample/res/drawable/droid.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-swipelistview-master/gradle/wrapper/gradle-wrapper.jar" afterPath="$PROJECT_DIR$/android-swipelistview-master/gradle/wrapper/gradle-wrapper.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-swipelistview-master/gradlew" afterPath="$PROJECT_DIR$/android-swipelistview-master/gradlew" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/sample/res/drawable-hdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/NineOldAndroids-master/sample/res/drawable-hdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/sample/res/drawable-mdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/NineOldAndroids-master/sample/res/drawable-mdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RVANA/bin/res/drawable-hdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/RVANA/bin/res/drawable-hdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RVANA/bin/res/drawable-ldpi/ic_launcher.png" afterPath="$PROJECT_DIR$/RVANA/bin/res/drawable-ldpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RVANA/bin/res/drawable-mdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/RVANA/bin/res/drawable-mdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RVANA/res/drawable-hdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/RVANA/res/drawable-hdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RVANA/res/drawable-ldpi/ic_launcher.png" afterPath="$PROJECT_DIR$/RVANA/res/drawable-ldpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RVANA/res/drawable-mdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/RVANA/res/drawable-mdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RVANA/res/drawable-xhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/RVANA/res/drawable-xhdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RVANA/res/drawable-xxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/RVANA/res/drawable-xxhdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RVANA/res/drawable-xxxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/RVANA/res/drawable-xxxhdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RVANA/bin/jarlist.cache" afterPath="$PROJECT_DIR$/RVANA/bin/jarlist.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RVANA/libs/joda-time-2.4.jar" afterPath="$PROJECT_DIR$/RVANA/libs/joda-time-2.4.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RVANA/proguard.cfg" afterPath="$PROJECT_DIR$/RVANA/proguard.cfg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RVANA/bin/resources.ap_" afterPath="$PROJECT_DIR$/RVANA/bin/resources.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RVANA/.classpath" afterPath="$PROJECT_DIR$/RVANA/.classpath" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/.gitignore" afterPath="$PROJECT_DIR$/NineOldAndroids-master/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-swipelistview-master/.gitignore" afterPath="$PROJECT_DIR$/android-swipelistview-master/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RVANA/.project" afterPath="$PROJECT_DIR$/RVANA/.project" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/library/AndroidManifest.xml" afterPath="$PROJECT_DIR$/NineOldAndroids-master/library/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/sample/AndroidManifest.xml" afterPath="$PROJECT_DIR$/NineOldAndroids-master/sample/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RVANA/AndroidManifest.xml" afterPath="$PROJECT_DIR$/RVANA/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RVANA/bin/AndroidManifest.xml" afterPath="$PROJECT_DIR$/RVANA/bin/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-swipelistview-master/swipelistview/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/android-swipelistview-master/swipelistview/src/main/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/sample/src/com/jakewharton/nineoldandroids/sample/apidemos/AnimationCloning.java" afterPath="$PROJECT_DIR$/NineOldAndroids-master/sample/src/com/jakewharton/nineoldandroids/sample/apidemos/AnimationCloning.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/sample/src/com/jakewharton/nineoldandroids/sample/apidemos/AnimationLoading.java" afterPath="$PROJECT_DIR$/NineOldAndroids-master/sample/src/com/jakewharton/nineoldandroids/sample/apidemos/AnimationLoading.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/sample/src/com/jakewharton/nineoldandroids/sample/apidemos/AnimationSeeking.java" afterPath="$PROJECT_DIR$/NineOldAndroids-master/sample/src/com/jakewharton/nineoldandroids/sample/apidemos/AnimationSeeking.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/library/src/com/nineoldandroids/animation/Animator.java" afterPath="$PROJECT_DIR$/NineOldAndroids-master/library/src/com/nineoldandroids/animation/Animator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/sample/src/com/jakewharton/nineoldandroids/sample/apidemos/AnimatorEvents.java" afterPath="$PROJECT_DIR$/NineOldAndroids-master/sample/src/com/jakewharton/nineoldandroids/sample/apidemos/AnimatorEvents.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/library/src/com/nineoldandroids/animation/AnimatorInflater.java" afterPath="$PROJECT_DIR$/NineOldAndroids-master/library/src/com/nineoldandroids/animation/AnimatorInflater.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/library/src/com/nineoldandroids/animation/AnimatorListenerAdapter.java" afterPath="$PROJECT_DIR$/NineOldAndroids-master/library/src/com/nineoldandroids/animation/AnimatorListenerAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/sample/src/com/jakewharton/nineoldandroids/sample/pathanimation/AnimatorPath.java" afterPath="$PROJECT_DIR$/NineOldAndroids-master/sample/src/com/jakewharton/nineoldandroids/sample/pathanimation/AnimatorPath.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/library/src/com/nineoldandroids/view/animation/AnimatorProxy.java" afterPath="$PROJECT_DIR$/NineOldAndroids-master/library/src/com/nineoldandroids/view/animation/AnimatorProxy.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/library/src/com/nineoldandroids/animation/AnimatorSet.java" afterPath="$PROJECT_DIR$/NineOldAndroids-master/library/src/com/nineoldandroids/animation/AnimatorSet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/library/src/com/nineoldandroids/animation/ArgbEvaluator.java" afterPath="$PROJECT_DIR$/NineOldAndroids-master/library/src/com/nineoldandroids/animation/ArgbEvaluator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-swipelistview-master/swipelistview/src/main/java/com/fortysevendeg/swipelistview/BaseSwipeListViewListener.java" afterPath="$PROJECT_DIR$/android-swipelistview-master/swipelistview/src/main/java/com/fortysevendeg/swipelistview/BaseSwipeListViewListener.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/sample/src/com/jakewharton/nineoldandroids/sample/apidemos/BouncingBalls.java" afterPath="$PROJECT_DIR$/NineOldAndroids-master/sample/src/com/jakewharton/nineoldandroids/sample/apidemos/BouncingBalls.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RVANA/gen/info/androidhive/jsonparsing/BuildConfig.java" afterPath="$PROJECT_DIR$/RVANA/gen/info/androidhive/jsonparsing/BuildConfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/sample/src/com/jakewharton/nineoldandroids/sample/apidemos/CustomEvaluator.java" afterPath="$PROJECT_DIR$/NineOldAndroids-master/sample/src/com/jakewharton/nineoldandroids/sample/apidemos/CustomEvaluator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/sample/src/com/jakewharton/nineoldandroids/sample/Demos.java" afterPath="$PROJECT_DIR$/NineOldAndroids-master/sample/src/com/jakewharton/nineoldandroids/sample/Demos.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/sample/src/com/jakewharton/nineoldandroids/sample/droidflakes/Droidflakes.java" afterPath="$PROJECT_DIR$/NineOldAndroids-master/sample/src/com/jakewharton/nineoldandroids/sample/droidflakes/Droidflakes.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/sample/src/com/jakewharton/nineoldandroids/sample/droidflakes/Flake.java" afterPath="$PROJECT_DIR$/NineOldAndroids-master/sample/src/com/jakewharton/nineoldandroids/sample/droidflakes/Flake.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/sample/src/com/jakewharton/nineoldandroids/sample/droidflakes/FlakeView.java" afterPath="$PROJECT_DIR$/NineOldAndroids-master/sample/src/com/jakewharton/nineoldandroids/sample/droidflakes/FlakeView.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/library/src/com/nineoldandroids/animation/FloatEvaluator.java" afterPath="$PROJECT_DIR$/NineOldAndroids-master/library/src/com/nineoldandroids/animation/FloatEvaluator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/library/src/com/nineoldandroids/animation/FloatKeyframeSet.java" afterPath="$PROJECT_DIR$/NineOldAndroids-master/library/src/com/nineoldandroids/animation/FloatKeyframeSet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/library/src/com/nineoldandroids/util/FloatProperty.java" afterPath="$PROJECT_DIR$/NineOldAndroids-master/library/src/com/nineoldandroids/util/FloatProperty.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/library/src/com/nineoldandroids/animation/IntEvaluator.java" afterPath="$PROJECT_DIR$/NineOldAndroids-master/library/src/com/nineoldandroids/animation/IntEvaluator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/library/src/com/nineoldandroids/animation/IntKeyframeSet.java" afterPath="$PROJECT_DIR$/NineOldAndroids-master/library/src/com/nineoldandroids/animation/IntKeyframeSet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/library/src/com/nineoldandroids/util/IntProperty.java" afterPath="$PROJECT_DIR$/NineOldAndroids-master/library/src/com/nineoldandroids/util/IntProperty.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/library/src/com/nineoldandroids/animation/Keyframe.java" afterPath="$PROJECT_DIR$/NineOldAndroids-master/library/src/com/nineoldandroids/animation/Keyframe.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/library/src/com/nineoldandroids/animation/KeyframeSet.java" afterPath="$PROJECT_DIR$/NineOldAndroids-master/library/src/com/nineoldandroids/animation/KeyframeSet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/LICENSE.txt" afterPath="$PROJECT_DIR$/NineOldAndroids-master/LICENSE.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-swipelistview-master/LICENSE.txt" afterPath="$PROJECT_DIR$/android-swipelistview-master/LICENSE.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RVANA/src/info/androidhive/jsonparsing/MainActivity.java" afterPath="$PROJECT_DIR$/RVANA/src/info/androidhive/jsonparsing/MainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RVANA/gen/info/androidhive/jsonparsing/Manifest.java" afterPath="$PROJECT_DIR$/RVANA/gen/info/androidhive/jsonparsing/Manifest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/sample/src/com/jakewharton/nineoldandroids/sample/apidemos/MultiPropertyAnimation.java" afterPath="$PROJECT_DIR$/NineOldAndroids-master/sample/src/com/jakewharton/nineoldandroids/sample/apidemos/MultiPropertyAnimation.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-swipelistview-master/NOTICE.txt" afterPath="$PROJECT_DIR$/android-swipelistview-master/NOTICE.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/library/src/com/nineoldandroids/util/NoSuchPropertyException.java" afterPath="$PROJECT_DIR$/NineOldAndroids-master/library/src/com/nineoldandroids/util/NoSuchPropertyException.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/library/src/com/nineoldandroids/animation/ObjectAnimator.java" afterPath="$PROJECT_DIR$/NineOldAndroids-master/library/src/com/nineoldandroids/animation/ObjectAnimator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/sample/src/com/jakewharton/nineoldandroids/sample/pathanimation/PathAnimationActivity.java" afterPath="$PROJECT_DIR$/NineOldAndroids-master/sample/src/com/jakewharton/nineoldandroids/sample/pathanimation/PathAnimationActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/sample/src/com/jakewharton/nineoldandroids/sample/pathanimation/PathEvaluator.java" afterPath="$PROJECT_DIR$/NineOldAndroids-master/sample/src/com/jakewharton/nineoldandroids/sample/pathanimation/PathEvaluator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/sample/src/com/jakewharton/nineoldandroids/sample/pathanimation/PathPoint.java" afterPath="$PROJECT_DIR$/NineOldAndroids-master/sample/src/com/jakewharton/nineoldandroids/sample/pathanimation/PathPoint.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/library/src/com/nineoldandroids/animation/PreHoneycombCompat.java" afterPath="$PROJECT_DIR$/NineOldAndroids-master/library/src/com/nineoldandroids/animation/PreHoneycombCompat.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/library/src/com/nineoldandroids/util/Property.java" afterPath="$PROJECT_DIR$/NineOldAndroids-master/library/src/com/nineoldandroids/util/Property.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/library/src/com/nineoldandroids/animation/PropertyValuesHolder.java" afterPath="$PROJECT_DIR$/NineOldAndroids-master/library/src/com/nineoldandroids/animation/PropertyValuesHolder.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RVANA/gen/info/androidhive/jsonparsing/R.java" afterPath="$PROJECT_DIR$/RVANA/gen/info/androidhive/jsonparsing/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RVANA/RVANA.iml" afterPath="$PROJECT_DIR$/RVANA/RVANA.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/library/src/com/nineoldandroids/util/ReflectiveProperty.java" afterPath="$PROJECT_DIR$/NineOldAndroids-master/library/src/com/nineoldandroids/util/ReflectiveProperty.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/sample/src/com/jakewharton/nineoldandroids/sample/apidemos/ReversingAnimation.java" afterPath="$PROJECT_DIR$/NineOldAndroids-master/sample/src/com/jakewharton/nineoldandroids/sample/apidemos/ReversingAnimation.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RVANA/src/info/androidhive/jsonparsing/ServiceHandler.java" afterPath="$PROJECT_DIR$/RVANA/src/info/androidhive/jsonparsing/ServiceHandler.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/sample/src/com/jakewharton/nineoldandroids/sample/apidemos/ShapeHolder.java" afterPath="$PROJECT_DIR$/NineOldAndroids-master/sample/src/com/jakewharton/nineoldandroids/sample/apidemos/ShapeHolder.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-swipelistview-master/swipelistview/src/main/java/com/fortysevendeg/swipelistview/SwipeListView.java" afterPath="$PROJECT_DIR$/android-swipelistview-master/swipelistview/src/main/java/com/fortysevendeg/swipelistview/SwipeListView.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-swipelistview-master/swipelistview/src/main/java/com/fortysevendeg/swipelistview/SwipeListViewListener.java" afterPath="$PROJECT_DIR$/android-swipelistview-master/swipelistview/src/main/java/com/fortysevendeg/swipelistview/SwipeListViewListener.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-swipelistview-master/swipelistview/src/main/java/com/fortysevendeg/swipelistview/SwipeListViewTouchListener.java" afterPath="$PROJECT_DIR$/android-swipelistview-master/swipelistview/src/main/java/com/fortysevendeg/swipelistview/SwipeListViewTouchListener.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/library/src/com/nineoldandroids/animation/TimeAnimator.java" afterPath="$PROJECT_DIR$/NineOldAndroids-master/library/src/com/nineoldandroids/animation/TimeAnimator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/sample/src/com/jakewharton/nineoldandroids/sample/Toggles.java" afterPath="$PROJECT_DIR$/NineOldAndroids-master/sample/src/com/jakewharton/nineoldandroids/sample/Toggles.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/library/src/com/nineoldandroids/animation/TypeEvaluator.java" afterPath="$PROJECT_DIR$/NineOldAndroids-master/library/src/com/nineoldandroids/animation/TypeEvaluator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/sample/src/com/jakewharton/nineoldandroids/sample/VPADemo.java" afterPath="$PROJECT_DIR$/NineOldAndroids-master/sample/src/com/jakewharton/nineoldandroids/sample/VPADemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/library/src/com/nineoldandroids/animation/ValueAnimator.java" afterPath="$PROJECT_DIR$/NineOldAndroids-master/library/src/com/nineoldandroids/animation/ValueAnimator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/library/src/com/nineoldandroids/view/ViewHelper.java" afterPath="$PROJECT_DIR$/NineOldAndroids-master/library/src/com/nineoldandroids/view/ViewHelper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/library/src/com/nineoldandroids/view/ViewPropertyAnimator.java" afterPath="$PROJECT_DIR$/NineOldAndroids-master/library/src/com/nineoldandroids/view/ViewPropertyAnimator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/library/src/com/nineoldandroids/view/ViewPropertyAnimatorHC.java" afterPath="$PROJECT_DIR$/NineOldAndroids-master/library/src/com/nineoldandroids/view/ViewPropertyAnimatorHC.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/library/src/com/nineoldandroids/view/ViewPropertyAnimatorICS.java" afterPath="$PROJECT_DIR$/NineOldAndroids-master/library/src/com/nineoldandroids/view/ViewPropertyAnimatorICS.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/library/src/com/nineoldandroids/view/ViewPropertyAnimatorPreHC.java" afterPath="$PROJECT_DIR$/NineOldAndroids-master/library/src/com/nineoldandroids/view/ViewPropertyAnimatorPreHC.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RVANA/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/RVANA/res/layout/activity_main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/android_support_v4.xml" afterPath="$PROJECT_DIR$/.idea/libraries/android_support_v4.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/android_support_v4__2_.xml" afterPath="$PROJECT_DIR$/.idea/libraries/android_support_v4__2_.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/sample/res/layout/animation_cloning.xml" afterPath="$PROJECT_DIR$/NineOldAndroids-master/sample/res/layout/animation_cloning.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/sample/res/layout/animation_loading.xml" afterPath="$PROJECT_DIR$/NineOldAndroids-master/sample/res/layout/animation_loading.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/sample/res/layout/animation_multi_property.xml" afterPath="$PROJECT_DIR$/NineOldAndroids-master/sample/res/layout/animation_multi_property.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/sample/res/layout/animation_reversing.xml" afterPath="$PROJECT_DIR$/NineOldAndroids-master/sample/res/layout/animation_reversing.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/sample/res/layout/animation_seeking.xml" afterPath="$PROJECT_DIR$/NineOldAndroids-master/sample/res/layout/animation_seeking.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/sample/res/anim/animator.xml" afterPath="$PROJECT_DIR$/NineOldAndroids-master/sample/res/anim/animator.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/sample/res/layout/animator_custom_evaluator.xml" afterPath="$PROJECT_DIR$/NineOldAndroids-master/sample/res/layout/animator_custom_evaluator.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/sample/res/layout/animator_events.xml" afterPath="$PROJECT_DIR$/NineOldAndroids-master/sample/res/layout/animator_events.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/sample/res/anim/animator_set.xml" afterPath="$PROJECT_DIR$/NineOldAndroids-master/sample/res/anim/animator_set.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/annotations_0b126310b5f4cae5912cf702d333d362.xml" afterPath="$PROJECT_DIR$/.idea/libraries/annotations_0b126310b5f4cae5912cf702d333d362.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/sample/res/layout/bouncing_balls.xml" afterPath="$PROJECT_DIR$/NineOldAndroids-master/sample/res/layout/bouncing_balls.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-swipelistview-master/build.gradle" afterPath="$PROJECT_DIR$/android-swipelistview-master/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-swipelistview-master/swipelistview/build.gradle" afterPath="$PROJECT_DIR$/android-swipelistview-master/swipelistview/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/checkstyle.xml" afterPath="$PROJECT_DIR$/NineOldAndroids-master/checkstyle.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/sample/res/anim/color_animator.xml" afterPath="$PROJECT_DIR$/NineOldAndroids-master/sample/res/anim/color_animator.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/sample/res/layout/droidflakes.xml" afterPath="$PROJECT_DIR$/NineOldAndroids-master/sample/res/layout/droidflakes.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/sample/res/layout-v11/droidflakes.xml" afterPath="$PROJECT_DIR$/NineOldAndroids-master/sample/res/layout-v11/droidflakes.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-swipelistview-master/gradle/wrapper/gradle-wrapper.properties" afterPath="$PROJECT_DIR$/android-swipelistview-master/gradle/wrapper/gradle-wrapper.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-swipelistview-master/gradle.properties" afterPath="$PROJECT_DIR$/android-swipelistview-master/gradle.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-swipelistview-master/gradlew.bat" afterPath="$PROJECT_DIR$/android-swipelistview-master/gradlew.bat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/joda_time_2_4.xml" afterPath="$PROJECT_DIR$/.idea/libraries/joda_time_2_4.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/joda_time_2_4__2_.xml" afterPath="$PROJECT_DIR$/.idea/libraries/joda_time_2_4__2_.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RVANA/res/layout/list_days.xml" afterPath="$PROJECT_DIR$/RVANA/res/layout/list_days.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RVANA/res/layout/list_item.xml" afterPath="$PROJECT_DIR$/RVANA/res/layout/list_item.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/sample/res/anim/object_animator.xml" afterPath="$PROJECT_DIR$/NineOldAndroids-master/sample/res/anim/object_animator.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/sample/res/layout/pathanimator.xml" afterPath="$PROJECT_DIR$/NineOldAndroids-master/sample/res/layout/pathanimator.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/pom.xml" afterPath="$PROJECT_DIR$/NineOldAndroids-master/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/library/pom.xml" afterPath="$PROJECT_DIR$/NineOldAndroids-master/library/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/sample/pom.xml" afterPath="$PROJECT_DIR$/NineOldAndroids-master/sample/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/library/project.properties" afterPath="$PROJECT_DIR$/NineOldAndroids-master/library/project.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/sample/project.properties" afterPath="$PROJECT_DIR$/NineOldAndroids-master/sample/project.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RVANA/project.properties" afterPath="$PROJECT_DIR$/RVANA/project.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RVANA/res/drawable-hdpi/scrollbar_vertical_thumb.xml" afterPath="$PROJECT_DIR$/RVANA/res/drawable-hdpi/scrollbar_vertical_thumb.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RVANA/res/drawable-ldpi/scrollbar_vertical_thumb.xml" afterPath="$PROJECT_DIR$/RVANA/res/drawable-ldpi/scrollbar_vertical_thumb.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RVANA/res/drawable-mdpi/scrollbar_vertical_thumb.xml" afterPath="$PROJECT_DIR$/RVANA/res/drawable-mdpi/scrollbar_vertical_thumb.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RVANA/res/drawable-hdpi/scrollbar_vertical_track.xml" afterPath="$PROJECT_DIR$/RVANA/res/drawable-hdpi/scrollbar_vertical_track.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RVANA/res/drawable-ldpi/scrollbar_vertical_track.xml" afterPath="$PROJECT_DIR$/RVANA/res/drawable-ldpi/scrollbar_vertical_track.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RVANA/res/drawable-mdpi/scrollbar_vertical_track.xml" afterPath="$PROJECT_DIR$/RVANA/res/drawable-mdpi/scrollbar_vertical_track.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-swipelistview-master/settings.gradle" afterPath="$PROJECT_DIR$/android-swipelistview-master/settings.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RVANA/res/values/strings.xml" afterPath="$PROJECT_DIR$/RVANA/res/values/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RVANA/res/values/styles.xml" afterPath="$PROJECT_DIR$/RVANA/res/values/styles.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RVANA/res/layout/swipe_pager.xml" afterPath="$PROJECT_DIR$/RVANA/res/layout/swipe_pager.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-swipelistview-master/swipelistview/src/main/res/values/swipelistview__attrs.xml" afterPath="$PROJECT_DIR$/android-swipelistview-master/swipelistview/src/main/res/values/swipelistview__attrs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/sample/res/layout/toggles.xml" afterPath="$PROJECT_DIR$/NineOldAndroids-master/sample/res/layout/toggles.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NineOldAndroids-master/sample/res/layout/vpademo.xml" afterPath="$PROJECT_DIR$/NineOldAndroids-master/sample/res/layout/vpademo.xml" />
+    </list>
+    <list id="c31e79e8-d25c-488c-8260-ed8055aaaf1d" name="Failed commit: Default" comment="Initial Checkin" />
+    <list id="c597eb55-19d8-4ce2-9e88-b739585f3c4c" name="Failed commit: Default (2)" comment="Initial Checkin" />
+    <ignored path="jsonExamples.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="jsonExamples" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="MainActivity.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/RVANA/src/info/androidhive/jsonparsing/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.9527121" vertical-offset="2171" max-vertical-offset="7208">
+              <caret line="173" column="23" selection-start-line="173" selection-start-column="23" selection-end-line="173" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#11448#11464#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ServiceHandler.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RVANA/src/info/androidhive/jsonparsing/ServiceHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1258" max-vertical-offset="1581">
+              <caret line="74" column="0" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Method.class" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$APPLICATION_HOME_DIR$/sdk/platforms/android-19/android.jar!/java/lang/reflect/Method.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="918" max-vertical-offset="1020">
+              <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="activity_main.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RVANA/res/layout/activity_main.xml">
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="442">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="list_item.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RVANA/res/layout/list_item.xml">
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1224" max-vertical-offset="1326">
+              <caret line="72" column="15" selection-start-line="72" selection-start-column="15" selection-end-line="72" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="swipe_pager.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RVANA/res/layout/swipe_pager.xml">
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="204">
+              <caret line="2" column="19" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="list_days.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RVANA/res/layout/list_days.xml">
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="1054">
+              <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="SYNC_SETTING" value="DONT" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="WARN_ABOUT_CRLF" value="false" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/AndroidJSONParsing/res/layout/activity_single_contact.xml" />
+        <option value="$PROJECT_DIR$/AndroidJSONParsing/src/info/androidhive/jsonparsing/SingleContactActivity.java" />
+        <option value="$PROJECT_DIR$/AndroidJSONParsing/res/layout/list_days.xml" />
+        <option value="$PROJECT_DIR$/AndroidJSONParsing/src/info/androidhive/jsonparsing/SimpleGestureFilter/java.java" />
+        <option value="$PROJECT_DIR$/AndroidJSONParsing/src/info/androidhive/jsonparsing/SimpleGestureFilter.java" />
+        <option value="$PROJECT_DIR$/AndroidJSONParsing/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/AndroidJSONParsing/res/layout/swipe_pager.xml" />
+        <option value="$PROJECT_DIR$/AndroidJSONParsing/src/info/androidhive/jsonparsing/MainActivity.java" />
+        <option value="$PROJECT_DIR$/AndroidJSONParsing/res/drawable-hdpi/scrollbar_vertical_track.xml" />
+        <option value="$PROJECT_DIR$/AndroidJSONParsing/res/drawable-hdpi/scrollbar_vertical_thumb.xml" />
+        <option value="$PROJECT_DIR$/AndroidJSONParsing/res/values/styles.xml" />
+        <option value="$PROJECT_DIR$/AndroidJSONParsing/res/layout/list_item.xml" />
+        <option value="$PROJECT_DIR$/AndroidJSONParsing/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/AndroidJSONParsing/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/RVANA/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/RVANA/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/RVANA/res/layout/list_item.xml" />
+        <option value="$PROJECT_DIR$/RVANA/src/info/androidhive/jsonparsing/MainActivity.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="1010" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RVANA-BMLT-ThickApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jsonExamples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RVANA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="options.lastSelected" value="vcs.Git" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="recentsLimit" value="5" />
+    <property name="FullScreen" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/Programs/Git/bin/git.exe" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\xha89407\Desktop\RVANA-Mailing\jsonExamples\AndroidJSONParsing\res\drawable-mdpi" />
+      <recent name="C:\Users\xha89407\Desktop\RVANA-Mailing\jsonExamples\AndroidJSONParsing\res\drawable-ldpi" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="info.androidhive.jsonparsing" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android Application.AndroidJSONParsing">
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="false" name="AndroidJSONParsing" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="RVANA" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="Nexus55" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <RunnerSettings RunnerId="AndroidDebugRunner" />
+      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Android Application.AndroidJSONParsing" />
+    </list>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87d94c97-8c8b-4cdb-bd7c-404b8be0a915" name="Default" comment="" />
+      <created>1407181054421</created>
+      <updated>1407181054421</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial Checkin">
+      <created>1407641950781</created>
+      <updated>1407641950781</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="1010" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.57191783" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.58064514" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1324201" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32990867" sideWeight="0.57109374" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.59474885" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.543379" sideWeight="0.21875" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23046875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32419354" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289183" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27452415" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289183" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.57903224" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14609376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289183" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.275" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289183" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289183" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2196468" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <MESSAGE value="In" />
+    <MESSAGE value="Initial Checkin" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Checkin" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RVANA/src/info/androidhive/jsonparsing/MainActivity.java</url>
+          <line>373</line>
+          <properties />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/RVANA/src/info/androidhive/jsonparsing/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1632" max-vertical-offset="2380">
+          <caret line="147" column="0" selection-start-line="147" selection-start-column="0" selection-end-line="147" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#11448#11464#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RVANA/src/info/androidhive/jsonparsing/ServiceHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="1581">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RVANA/res/layout/list_item.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="219" max-vertical-offset="901">
+          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RVANA/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="323">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RVANA/bin/classes/info/androidhive/jsonparsing/ServiceHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RVANA/bin/classes/info/androidhive/jsonparsing/MainActivity.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="697">
+          <caret line="18" column="58" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RVANA/src/info/androidhive/jsonparsing/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1207" max-vertical-offset="3281">
+          <caret line="71" column="23" selection-start-line="71" selection-start-column="23" selection-end-line="71" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#11448#11464#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RVANA/src/info/androidhive/jsonparsing/ServiceHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="1581">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RVANA/res/layout/list_item.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="935">
+          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RVANA/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="323">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RVANA/bin/classes/info/androidhive/jsonparsing/ServiceHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RVANA/bin/classes/info/androidhive/jsonparsing/MainActivity.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="697">
+          <caret line="18" column="58" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RVANA/src/info/androidhive/jsonparsing/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1003" max-vertical-offset="3281">
+          <caret line="59" column="8" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#11448#11464#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RVANA/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RVANA/res/layout/list_item.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="578" max-vertical-offset="918">
+          <caret line="34" column="35" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RVANA/bin/classes/info/androidhive/jsonparsing/ServiceHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RVANA/bin/classes/info/androidhive/jsonparsing/MainActivity.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="697">
+          <caret line="18" column="58" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RVANA/src/info/androidhive/jsonparsing/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1003" max-vertical-offset="3281">
+          <caret line="59" column="8" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#11448#11464#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RVANA/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RVANA/bin/classes/info/androidhive/jsonparsing/ServiceHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RVANA/bin/classes/info/androidhive/jsonparsing/MainActivity.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680">
+          <caret line="18" column="58" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/sdk/platforms/android-19/android.jar!/java/net/InetAddress.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="1071">
+          <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RVANA/gen/info/androidhive/jsonparsing/R.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="578">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RVANA/gen/info/androidhive/jsonparsing/Manifest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="204">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RVANA/gen/info/androidhive/jsonparsing/BuildConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RVANA/.classpath">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="878">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RVANA/res/drawable-hdpi/scrollbar_vertical_track.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21298406" vertical-offset="0" max-vertical-offset="878">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RVANA/res/drawable-hdpi/scrollbar_vertical_thumb.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1548975" vertical-offset="0" max-vertical-offset="878">
+          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RVANA/res/drawable-mdpi/scrollbar_vertical_track.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="878">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RVANA/res/drawable-ldpi/scrollbar_vertical_track.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="878">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RVANA/res/drawable-ldpi/scrollbar_vertical_thumb.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="878">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RVANA/res/drawable-mdpi/scrollbar_vertical_thumb.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="878">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RVANA/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RVANA/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
+          <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RVANA/project.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RVANA/proguard.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="878">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RVANA/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="595">
+          <caret line="18" column="69" selection-start-line="18" selection-start-column="69" selection-end-line="18" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RVANA/.project">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="878">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/sdk/platforms/android-19/android.jar!/android/app/Instrumentation.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2507" max-vertical-offset="2720">
+          <caret line="155" column="0" selection-start-line="155" selection-start-column="0" selection-end-line="155" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/sdk/platforms/android-19/android.jar!/android/app/Activity.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="7352" max-vertical-offset="7565">
+          <caret line="440" column="0" selection-start-line="440" selection-start-column="0" selection-end-line="440" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/sdk/platforms/android-19/android.jar!/android/app/ListActivity.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="335" max-vertical-offset="561">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/sdk/platforms/android-19/android.jar!/android/os/Looper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="403" max-vertical-offset="629">
+          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/sdk/platforms/android-19/android.jar!/android/os/Handler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1185" max-vertical-offset="1411">
+          <caret line="78" column="0" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RVANA/RVANA.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+          <caret line="3" column="41" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/sdk/platforms/android-19/android.jar!/java/lang/reflect/Method.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="790" max-vertical-offset="1003">
+          <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RVANA/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="442">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RVANA/res/layout/list_item.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1224" max-vertical-offset="1326">
+          <caret line="72" column="15" selection-start-line="72" selection-start-column="15" selection-end-line="72" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RVANA/res/layout/swipe_pager.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="204">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RVANA/res/layout/list_days.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="1054">
+          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RVANA/src/info/androidhive/jsonparsing/ServiceHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="535" max-vertical-offset="1360">
+          <caret line="74" column="0" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RVANA/src/info/androidhive/jsonparsing/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9527121" vertical-offset="2171" max-vertical-offset="7208">
+          <caret line="173" column="23" selection-start-line="173" selection-start-column="23" selection-end-line="173" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#11448#11464#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Android</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>Android API 19 Platform</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>RVANA</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>Android API 19 Platform</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>android-support-v4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+
