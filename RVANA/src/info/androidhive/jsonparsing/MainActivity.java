@@ -42,7 +42,8 @@ public class MainActivity extends ListActivity  {
 
     // URL to get meetings JSON
     //private static String url = "http://api.androidhive.info/meetings/";
-    private static String url = "http://metrorichna.org/BMLT/main_server/client_interface/json/?switcher=GetSearchResults";
+    //Updated URL to just RVANA.org meetings
+    private static String url = "https://metrorichna.org/BMLT/main_server/client_interface/json/?switcher=GetSearchResults&services[]=2&services[]=6&services[]=3&services[]=4&services[]=5";
     // JSON Node names
     private static final String TAG_ID = "id_bigint";
     private static final String TAG_NAME = "meeting_name";
